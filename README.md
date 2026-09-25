@@ -61,6 +61,7 @@ want to operate the tool, read the prose and skip the Evidence blocks.
 ### Control surfaces
 - [Permissions, auto-mode & sandbox](docs/permissions-automode-sandbox.md) — permission modes, the auto-mode classifier, allow/deny matching, the Bash sandbox.
 - [Statusline](docs/statusline.md) — the exact JSON payload a custom statusline command receives.
+- [Terminal color depth](docs/terminal-colors.md) — how the 24-bit vs 256-color decision is made, why WSL under Windows Terminal looks washed out, and why `FORCE_COLOR=3` doesn't fix it.
 - [Telemetry & egress](docs/telemetry-and-egress.md) — every network egress and its kill switch (telemetry, OTEL, statsig, autoupdate).
 
 ## Versions
